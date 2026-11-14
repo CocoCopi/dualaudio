@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand_primary">#4F46E5</color>
+    <color name="brand_on_primary">#FFFFFF</color>
+    <color name="brand_primary_container">#E0E7FF</color>
+    <color name="brand_on_primary_container">#1E1B4B</color>
+    <color name="brand_secondary">#0F766E</color>
+    <color name="brand_secondary_container">#CCFBF1</color>
+    <color name="brand_on_secondary_container">#042F2E</color>
+    <color name="brand_tertiary">#B45309</color>
+    <color name="brand_tertiary_container">#FEF3C7</color>
+    <color name="brand_on_tertiary_container">#451A03</color>
+
+    <color name="surface_light">#FBFBFF</color>
+    <color name="surface_container_light">#F1F0F7</color>
+    <color name="on_surface_light">#1B1B21</color>
+    <color name="on_surface_variant_light">#46464F</color>
+    <color name="outline_light">#777680</color>
+    <color name="success">#15803D</color>
+    <color name="success_container">#DCFCE7</color>
+    <color name="warning">#B45309</color>
+    <color name="warning_container">#FEF3C7</color>
+    <color name="error">#BA1A1A</color>
+    <color name="error_container">#FFDAD6</color>
+
+    <color name="surface_dark">#121218</color>
+    <color name="surface_container_dark">#1E1E26</color>
+    <color name="on_surface_dark">#E5E1E9</color>
+    <color name="on_surface_variant_dark">#C7C5D0</color>
+    <color name="outline_dark">#918F9A</color>
+    <color name="brand_primary_dark">#A5B4FC</color>
+    <color name="brand_on_primary_dark">#1E1B4B</color>
+    <color name="brand_primary_container_dark">#312E81</color>
+    <color name="brand_on_primary_container_dark">#E0E7FF</color>
+    <color name="success_dark">#86EFAC</color>
+    <color name="success_container_dark">#14532D</color>
+    <color name="warning_dark">#FCD34D</color>
+    <color name="warning_container_dark">#78350F</color>
+    <color name="error_dark">#FFB4AB</color>
+    <color name="error_container_dark">#93000A</color>
+
+    <color name="ic_launcher_background">#4F46E5</color>
+</resources>

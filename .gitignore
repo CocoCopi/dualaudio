@@ -1,0 +1,30 @@
+# Build output
+build/
+*/build/
+
+# Gradle
+.gradle/
+gradle-app.setting
+!gradle/wrapper/gradle-wrapper.jar
+
+# Local configuration and signing material
+local.properties
+.secrets/
+*.jks
+*.keystore
+keystore.properties
+
+# IDE
+.idea/
+*.iml
+*.hprof
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+
+# Android
+captures/
+.externalNativeBuild/
+.cxx/
